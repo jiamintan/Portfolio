@@ -10,17 +10,17 @@
 
 ---
 ["NJ Transafe" for Safer Station Environment during COVID-19 Pandemic](/pdf/sample_presentation.pdf)   
-*How train delay predictions can help daily station management during the pandemic*
+*How train delay predictions can help with daily station management during the pandemic*
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
 [Bus Ridership Prediction I: Regression Models of Chicago and Philadelphia](http://example.com/)   
-*Predict census block level bus ridership based on socioeconomic factors*
+*Predict census block level ridership based on socioeconomic factors*
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
 [Bus Ridership Prediction II: Time Series Models of Iowa City](http://example.com/)   
-*Predict monthly bus ridership based on past observations*
+*Predict monthly average ridership based on past observations*
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
