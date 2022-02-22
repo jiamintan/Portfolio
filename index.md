@@ -20,7 +20,10 @@
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
+[Creating a Land Use Classification Map from Satellite Imagery](http://example.com/)
+<img src="images/dummy_thumbnail.jpg?raw=true"/>
 
+---
 ### Urban Planning and Design Sample Pages
 
 - [South Atlanta - Chosewood Park Neighborhood Cluster](http://example.com/)
