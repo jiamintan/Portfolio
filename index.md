@@ -20,7 +20,7 @@
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
-[Creating a Land Use Classification Map from Satellite Imagery](http://example.com/)
+[Land Use Classification from Satellite Imagery](http://example.com/)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
