@@ -5,7 +5,7 @@
 ### Data Analytics & Machine Learning
 
 [An Analysis of Transit Oriented Developments (TOD) in Boston](/sample_page)   
-*Understand the socioeconomic changes happened near MBTA subway stations over years*
+*Understand demographic and socioeconomic changes around MBTA subway stations over years*
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
