@@ -2,28 +2,29 @@
 
 ---
 
-### Category Name 1 
+### Data Analytics & Machine Learning
 
-[Project 1 Title](/sample_page)
+[An Analysis of Transit Oriented Developments (TOD) in Boston](/sample_page)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
-[Project 2 Title](/pdf/sample_presentation.pdf)
+["NJ Transafe" for Safer Station Environment during COVID-19 Pandemic](/pdf/sample_presentation.pdf)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
-[Project 3 Title](http://example.com/)
+[Bus Ridership Prediction I: Regression Models of Chicago and Philadelphia](http://example.com/)
+<img src="images/dummy_thumbnail.jpg?raw=true"/>
+
+---
+[Bus Ridership Prediction II: Time Series Models of Iowa City](http://example.com/)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
 
-### Category Name 2
+### Urban Planning and Design Sample Pages
 
-- [Project 1 Title](http://example.com/)
-- [Project 2 Title](http://example.com/)
-- [Project 3 Title](http://example.com/)
-- [Project 4 Title](http://example.com/)
-- [Project 5 Title](http://example.com/)
+- [South Atlanta - Chosewood Park Neighborhood Cluster](http://example.com/)
+- [Ciudad de Integración](http://example.com/)
 
 ---
 
