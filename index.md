@@ -37,7 +37,7 @@
 
 ---
 [Ciudad de Integración](http://example.com/)   
-*sample texts*
+*A new gateway to Ciudad del Este, Paraguay*
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
