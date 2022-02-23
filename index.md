@@ -7,19 +7,19 @@
 **[An Analysis of Transit Oriented Developments (TOD) in Boston](/sample_page)**   
 Understand demographic and socioeconomic changes around MBTA subway stations over years
 <img src="images/dummy_thumbnail.jpg?raw=true"/>   
-Key Words: *R*, *Geospatial*
+Key Words: *R*, *Spatial Analysis*
 
 ---
 **["NJ Transafe" for Safer Station Environment during COVID-19 Pandemic](/pdf/sample_presentation.pdf)**   
 How train delay predictions can help with daily station management during the pandemic
 <img src="images/dummy_thumbnail.jpg?raw=true"/>   
-Key Words: *R*, *Regression*, *Geospatial*
+Key Words: *R*, *Regression*, *Spatial Analysis*
 
 ---
 **[Bus Ridership Prediction I: Regression Models of Chicago and Philadelphia](http://example.com/)**   
 Predict block group level ridership based on socioeconomic factors
 <img src="images/dummy_thumbnail.jpg?raw=true"/>   
-Key Words: *Python*, *Panel*, *Clustering Analysis*, *Regression*, *Geospatial*
+Key Words: *Python*, *Interactive Maps*, *Clustering Analysis*, *Regression*, *Spatial Analysis*
 
 ---
 **[Bus Ridership Prediction II: Time Series Models of Iowa City](http://example.com/)**   
