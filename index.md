@@ -13,7 +13,7 @@ Key Words: *R*, *Spatial Analysis*
 **["NJ Transafe" for Safer Station Environment during COVID-19 Pandemic](/pdf/sample_presentation.pdf)**   
 How train delay predictions can help with daily station management during the pandemic
 <img src="images/dummy_thumbnail.jpg?raw=true"/>   
-Key Words: *R*, *Regression*, *Spatial Analysis*
+Key Words: *R*, *Regression*, *Feature Engineering*, *Spatial Analysis*
 
 ---
 **[Bus Ridership Prediction I: Regression Models of Chicago and Philadelphia](http://example.com/)**   
