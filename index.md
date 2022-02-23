@@ -19,7 +19,7 @@ Key Words: *R*, *Regression*, *Geospatial*
 **[Bus Ridership Prediction I: Regression Models of Chicago and Philadelphia](http://example.com/)**   
 Predict census block level ridership based on socioeconomic factors
 <img src="images/dummy_thumbnail.jpg?raw=true"/>   
-Key Words: *Python*, *Panel*, *Regression*, *Geospatial*
+Key Words: *Python*, *Panel*, *Clustering Analysis*, *Regression*, *Geospatial*
 
 ---
 **[Bus Ridership Prediction II: Time Series Models of Iowa City](http://example.com/)**   
