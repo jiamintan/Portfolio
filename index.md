@@ -23,7 +23,7 @@ Predict block group level ridership based on socioeconomic factors
 Key Words: *Python*, *Interactive Maps*, *Clustering Analysis*, *Regression*, *Spatial Analysis*
 
 ---
-**[Bus Ridership Prediction II: Time Series Models of Iowa City](http://example.com/)**   
+**[Bus Ridership Prediction II: Time Series Models of Iowa City](contents/Portfolio-TimeSeries.pdf)**   
 Predict monthly average ridership based on past observations
 <img src="images/dummy_thumbnail.jpg?raw=true"/>   
 Key Words: *R*, *SARIMA*, *Time Series*
