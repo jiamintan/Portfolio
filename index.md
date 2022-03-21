@@ -5,7 +5,7 @@ Last Updated: Feb 2022
 
 ## Data Analytics & Machine Learning
 
-**[An Analysis of Transit Oriented Developments (TOD) in Boston](/sample_page)**   
+**[An Analysis of Transit Oriented Developments (TOD) in Boston](contents/Portfolio_BostonTOD.html)**   
 Understand demographic and socioeconomic changes around MBTA subway stations over years
 <img src="images/dummy_thumbnail.jpg?raw=true"/>   
 Key Words: *R*, *Spatial Analysis*
