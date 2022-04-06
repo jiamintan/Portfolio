@@ -43,7 +43,7 @@ Key Words: *R*, *SVM*, *Image Segmentation*, *Remote Sensing*
 ---
 **Classification II: Detect Road from Aerial Imagery** *(working in progress)*  
 Segment roads from surrounding features using convolutional neural networks (cnn)
-<img src="images/Portfolio-Classification_I.jpg?raw=true"/>   
+
 Key Words: *Python*, *TensorFlow*, *Deep Learning*, *Image Segmentation*, *Remote Sensing*
 
 ---
