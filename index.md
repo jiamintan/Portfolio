@@ -3,21 +3,27 @@ Last Updated: Feb 2022
 
 ---
 
-## Data Analytics & Machine Learning
+## Data Analytics & Machine Learning in Urban/Transportation Fields
 
 **[An Analysis of Transit Oriented Developments (TOD) in Boston](contents/Portfolio_BostonTOD.html)**   
-Understand demographic and socioeconomic changes around MBTA subway stations over years
+Understand demographic and socioeconomic changes around MBTA rapid transit stations over years
 <img src="images/dummy_thumbnail.jpg?raw=true"/>   
 Key Words: *R*, *Spatial Analysis*
 
 ---
-**["NJ Transafe" for Safer Station Environment during COVID-19 Pandemic](/pdf/sample_presentation.pdf)**   
+**["NJ Transafe" for Safer Station Environment during COVID-19 Pandemic](contents/Portfolio-NJTransafe_1.pdf)**   
 How train delay predictions can help with daily station management during the pandemic
 <img src="images/dummy_thumbnail.jpg?raw=true"/>   
-Key Words: *R*, *Regression*, *Feature Engineering*, *Spatial Analysis*
+Key Words: *R*, *Feature Engineering*, *Regression*, *Spatial Analysis*
 
 ---
-**[Bus Ridership Prediction I: Regression Models of Chicago and Philadelphia](http://example.com/)**   
+**[Modeling First-Mile Ride-Hailing Needs in Chicago](contents/Portfolio-RideHail.pdf)**   
+Find out socioeconomic characteristics of potential users of first-mile ride-hailing services in Chicago, IL
+<img src="images/dummy_thumbnail.jpg?raw=true"/>   
+Key Words: *R*, *Feature Engineering*, *Negative Binomial Regression*, *Logistic Regression*
+
+---
+**[Bus Ridership Prediction I: Regression Models of Chicago and Philadelphia](https://github.com/jiamintan/final-project-city-hall-llc)**   
 Predict block group level ridership based on socioeconomic factors
 <img src="images/dummy_thumbnail.jpg?raw=true"/>   
 Key Words: *Python*, *Interactive Maps*, *Clustering Analysis*, *Regression*, *Spatial Analysis*
@@ -29,7 +35,7 @@ Predict monthly average ridership based on past observations
 Key Words: *R*, *SARIMA*, *Time Series*
 
 ---
-**[Classification I: A Land Use Map Created from Satellite Imagery](http://example.com/)**   
+**[Classification I: A Land Use Map Created from Satellite Imagery](contents/Portfolio-Classification_I.pdf)**   
 Understand the ground from the space
 <img src="images/dummy_thumbnail.jpg?raw=true"/>   
 Key Words: *R*, *SVM*, *Classification*, *Remote Sensing*
