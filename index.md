@@ -23,7 +23,7 @@ Find out socioeconomic characteristics of potential users of first-mile ride-hai
 Key Words: *R*, *Feature Engineering*, *Negative Binomial Regression*, *Logistic Regression*
 
 ---
-**[Bus Ridership Prediction I: Regression Models of Chicago and Philadelphia](https://github.com/jiamintan/final-project-city-hall-llc)[Codes and Visualizations](contents/Portfolio-BusRidership_I_Codes.html)**
+**[Bus Ridership Prediction I: Regression Models of Chicago and Philadelphia](https://github.com/jiamintan/final-project-city-hall-llc)[\[Codes and Visualizations\]](contents/Portfolio-BusRidership_I_Codes.html)**
 Predict block group level ridership based on socioeconomic factors
 <img src="images/Portfolio-BusRidership_I.jpg?raw=true"/>   
 Key Words: *Python*, *Interactive Maps*, *Clustering Analysis*, *Regression*, *Spatial Analysis*
