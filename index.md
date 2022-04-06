@@ -11,7 +11,7 @@ Understand demographic and socioeconomic changes around MBTA rapid transit stati
 Key Words: *R*, *Spatial Analysis*
 
 ---
-**["NJ Transafe" for Safer Station Environment during COVID-19 Pandemic](contents/Portfolio-NJTransafe_1.pdf)**   
+**["NJ Transafe" for Safer Station Environment during COVID-19 Pandemic](contents/Portfolio-NJTransafe_1.pdf){:target="_blank"}**   
 How train delay predictions can help with daily station management during the pandemic
 <img src="images/Portfolio-NJTransafe.jpg?raw=true"/>   
 Key Words: *R*, *Feature Engineering*, *Regression*, *Spatial Analysis*
