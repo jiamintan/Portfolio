@@ -5,7 +5,7 @@ Last Updated: April 2022
 
 ## Data Science in Urban/Transportation Fields
 
-**[An Analysis of Transit Oriented Developments (TOD) in Boston](contents/Portfolio_BostonTOD.html)**   
+**[An Analysis of Transit Oriented Developments (TOD) in Boston](contents/Portfolio_BostonTOD.html){:target="_blank"}**   
 Understand demographic and socioeconomic changes around MBTA rapid transit stations over years
 <img src="images/Portfolio-BostonTOD.jpg?raw=true"/>   
 Key Words: *R*, *Spatial Analysis*
