@@ -35,10 +35,16 @@ Predict monthly average ridership based on past observations
 Key Words: *R*, *SARIMA*, *Time Series*
 
 ---
-**[Classification I: A Land Use Map Created from Satellite Imagery](contents/Portfolio-Classification_I.pdf){:target="_blank"}**   
-Understand the ground from the space
+**[Classification I: A Land Use Map Created from Aerial Imagery](contents/Portfolio-Classification_I.pdf){:target="_blank"}**   
+Segment different land use patterns using support vector machine (svm)
 <img src="images/Portfolio-Classification_I.jpg?raw=true"/>   
-Key Words: *R*, *SVM*, *Classification*, *Remote Sensing*
+Key Words: *R*, *SVM*, *Image Segmentation*, *Remote Sensing*
+
+---
+**Classification II: Detect Road from Aerial Imagery** *(working in progress)*  
+Segment roads from surrounding features using convolutional neural networks (cnn)
+<img src="images/Portfolio-Classification_I.jpg?raw=true"/>   
+Key Words: *Python*, *TensorFlow*, *Deep Learning*, *Image Segmentation*, *Remote Sensing*
 
 ---
 ## Urban Planning and Design Sample Pages
