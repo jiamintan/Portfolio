@@ -17,25 +17,25 @@ How train delay predictions can help with daily station management during the pa
 Key Words: *R*, *Feature Engineering*, *Regression*, *Spatial Analysis*
 
 ---
-**[Modeling First-Mile Ride-Hailing Needs in Chicago](contents/Portfolio-RideHail.pdf)**   
+**[Modeling First-Mile Ride-Hailing Needs in Chicago](contents/Portfolio-RideHail.pdf){:target="_blank"}**   
 Find out socioeconomic characteristics of potential users of first-mile ride-hailing services in Chicago, IL
 <img src="images/Portfolio-RideHail.jpg?raw=true"/>   
 Key Words: *R*, *Feature Engineering*, *Negative Binomial Regression*, *Logistic Regression*
 
 ---
-**[Bus Ridership Prediction I: Regression Models of Chicago and Philadelphia](https://github.com/jiamintan/final-project-city-hall-llc)**
-Predict block group level ridership based on socioeconomic factors [\[Codes and Visualizations\]](contents/Portfolio-BusRidership_I_Codes.html)
+**[Bus Ridership Prediction I: Regression Models of Chicago and Philadelphia](https://github.com/jiamintan/final-project-city-hall-llc){:target="_blank"}**
+Predict block group level ridership based on socioeconomic factors [\[Codes and Visualizations\]](contents/Portfolio-BusRidership_I_Codes.html){:target="_blank"}
 <img src="images/Portfolio-BusRidership_I.jpg?raw=true"/>   
 Key Words: *Python*, *Interactive Maps*, *Clustering Analysis*, *Regression*, *Spatial Analysis*
 
 ---
-**[Bus Ridership Prediction II: Time Series Models of Iowa City](contents/Portfolio-TimeSeries.pdf)**   
+**[Bus Ridership Prediction II: Time Series Models of Iowa City](contents/Portfolio-TimeSeries.pdf){:target="_blank"}**   
 Predict monthly average ridership based on past observations
 <img src="images/Portfolio-BusRidership_II.jpg?raw=true"/>   
 Key Words: *R*, *SARIMA*, *Time Series*
 
 ---
-**[Classification I: A Land Use Map Created from Satellite Imagery](contents/Portfolio-Classification_I.pdf)**   
+**[Classification I: A Land Use Map Created from Satellite Imagery](contents/Portfolio-Classification_I.pdf){:target="_blank"}**   
 Understand the ground from the space
 <img src="images/Portfolio-Classification_I.jpg?raw=true"/>   
 Key Words: *R*, *SVM*, *Classification*, *Remote Sensing*
@@ -43,13 +43,13 @@ Key Words: *R*, *SVM*, *Classification*, *Remote Sensing*
 ---
 ## Urban Planning and Design Sample Pages
 
-**[South Atlanta - Chosewood Park Neighborhood Cluster](contents/Portfolio-SouthAtlanta_ChosewoodPark_Sample.pdf)**   
+**[South Atlanta - Chosewood Park Neighborhood Cluster](contents/Portfolio-SouthAtlanta_ChosewoodPark_Sample.pdf){:target="_blank"}**   
 A plan to champion equity, increase access, and promote redevelopment
 <img src="images/Portfolio-Atlanta.jpg?raw=true"/>   
 Key Words: *Illustrator*, *InDesign*, *Safety*, *Bike and Pedestrian Planning*
 
 ---
-**[Ciudad de Integración](contents/Portfolio-CDE_Sample.pdf)**   
+**[Ciudad de Integración](contents/Portfolio-CDE_Sample.pdf){:target="_blank"}**   
 The new gateway to Ciudad del Este, Paraguay   
 <img src="images/Portfolio-CDE.jpg?raw=true"/>   
 Key Words: *Illustrator*, *Photoshop*, *Multimodal*, *Green Infrastructures*
