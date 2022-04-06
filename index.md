@@ -37,7 +37,7 @@ Key Words: *R*, *SARIMA*, *Time Series*
 ---
 **[Classification I: A Land Use Map Created from Satellite Imagery](contents/Portfolio-Classification_I.pdf)**   
 Understand the ground from the space
-<img src="images/dummy_thumbnail.jpg?raw=true"/>   
+<img src="images/Portfolio-Classification_I.jpg?raw=true"/>   
 Key Words: *R*, *SVM*, *Classification*, *Remote Sensing*
 
 ---
