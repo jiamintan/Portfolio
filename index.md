@@ -7,7 +7,7 @@ Last Updated: Feb 2022
 
 **[An Analysis of Transit Oriented Developments (TOD) in Boston](contents/Portfolio_BostonTOD.html)**   
 Understand demographic and socioeconomic changes around MBTA rapid transit stations over years
-<img src="images/dummy_thumbnail.jpg?raw=true"/>   
+<img src="images/Portfolio-BostonTOD.jpg?raw=true"/>   
 Key Words: *R*, *Spatial Analysis*
 
 ---
