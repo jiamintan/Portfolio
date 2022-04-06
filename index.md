@@ -13,13 +13,13 @@ Key Words: *R*, *Spatial Analysis*
 ---
 **["NJ Transafe" for Safer Station Environment during COVID-19 Pandemic](contents/Portfolio-NJTransafe_1.pdf)**   
 How train delay predictions can help with daily station management during the pandemic
-<img src="images/dummy_thumbnail.jpg?raw=true"/>   
+<img src="images/Portfolio-NJTransafe.jpg?raw=true"/>   
 Key Words: *R*, *Feature Engineering*, *Regression*, *Spatial Analysis*
 
 ---
 **[Modeling First-Mile Ride-Hailing Needs in Chicago](contents/Portfolio-RideHail.pdf)**   
 Find out socioeconomic characteristics of potential users of first-mile ride-hailing services in Chicago, IL
-<img src="images/dummy_thumbnail.jpg?raw=true"/>   
+<img src="images/Portfolio-RideHail.jpg?raw=true"/>   
 Key Words: *R*, *Feature Engineering*, *Negative Binomial Regression*, *Logistic Regression*
 
 ---
@@ -31,7 +31,7 @@ Key Words: *Python*, *Interactive Maps*, *Clustering Analysis*, *Regression*, *S
 ---
 **[Bus Ridership Prediction II: Time Series Models of Iowa City](contents/Portfolio-TimeSeries.pdf)**   
 Predict monthly average ridership based on past observations
-<img src="images/dummy_thumbnail.jpg?raw=true"/>   
+<img src="images/Portfolio-BusRidership_II.jpg?raw=true"/>   
 Key Words: *R*, *SARIMA*, *Time Series*
 
 ---
