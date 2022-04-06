@@ -3,7 +3,7 @@ Last Updated: April 2022
 
 ---
 
-## Data Science & Machine Learning Projects in Urban/Transportation Fields
+## Data Analytics & Machine Learning Projects in Urban/Transportation Fields
 
 **[1. An Analysis of Transit Oriented Developments (TOD) in Boston](contents/Portfolio_BostonTOD.html){:target="_blank"}**   
 Understand demographic and socioeconomic changes around MBTA rapid transit stations over years
