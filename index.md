@@ -45,13 +45,13 @@ Key Words: *R*, *SVM*, *Classification*, *Remote Sensing*
 
 **[South Atlanta - Chosewood Park Neighborhood Cluster](contents/Portfolio-SouthAtlanta_ChosewoodPark_Sample.pdf)**   
 A plan to champion equity, increase access, and promote redevelopment
-<img src="images/dummy_thumbnail.jpg?raw=true"/>   
+<img src="images/Portfolio-Atlanta.jpg?raw=true"/>   
 Key Words: *Illustrator*, *InDesign*, *Safety*, *Bike and Pedestrian Planning*
 
 ---
 **[Ciudad de Integración](contents/Portfolio-CDE_Sample.pdf)**   
 The new gateway to Ciudad del Este, Paraguay   
-<img src="images/dummy_thumbnail.jpg?raw=true"/>   
+<img src="images/Portfolio-CDE.jpg?raw=true"/>   
 Key Words: *Illustrator*, *Photoshop*, *Multimodal*, *Green Infrastructures*
 
 ---
