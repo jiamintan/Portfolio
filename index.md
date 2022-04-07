@@ -5,13 +5,13 @@ Last Updated: April 7, 2022
 ## 1. Transportation Modeling
 
 **[1.1 Understanding Mode Choice of Trips between Montreal and Toronto, Canada](contents/Portfolio-CanadaModeChoice.pdf){:target="_blank"}**   
-Segment different land use patterns using support vector machine (svm)
+Understand mode choice of trips between Montreal and Toronto, Canada
 <img src="images/Portfolio-CanadaModeChoice.jpg?raw=true"/>   
 Key Words: *R*, *Random Utility Model*, *Mode Choice*
 
 ---
 **[1.2 Modeling Traveling Patterns and Activities in Greater Los Angeles Area](contents/Portfolio-LATravelingPattern.pdf){:target="_blank"}**   
-Find out socioeconomic characteristics of potential users of first-mile ride-hailing services in Chicago, IL
+Model traveling patterns and activities in greater Los Angeles area
 <img src="images/Portfolio-LATravelPattern.jpg?raw=true"/>   
 Key Words: *R*, *Negative Binomial Regression*, *Multinomial Logit Model*, *Travel Behavior*
 
