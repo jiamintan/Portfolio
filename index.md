@@ -6,19 +6,19 @@ Last Updated: April 7, 2022
 
 **[1.1 Understanding Mode Choice of Trips between Montreal and Toronto, Canada](contents/Portfolio-CanadaModeChoice.pdf){:target="_blank"}**   
 Segment different land use patterns using support vector machine (svm)
-<img src="images/Portfolio-Classification_I.jpg?raw=true"/>   
-Key Words: *R*, *Mixed Logit Model*, *Mode Choice*
+<img src="images/Portfolio-CanadaModeChoice.jpg?raw=true"/>   
+Key Words: *R*, *Random Utility Model*, *Mode Choice*
 
 ---
 **[1.2 Modeling Traveling Patterns and Activities in Greater Los Angeles Area](contents/Portfolio-LATravelingPattern.pdf){:target="_blank"}**   
 Find out socioeconomic characteristics of potential users of first-mile ride-hailing services in Chicago, IL
-<img src="images/Portfolio-RideHail.jpg?raw=true"/>   
+<img src="images/Portfolio-LATravelPattern.jpg?raw=true"/>   
 Key Words: *R*, *Negative Binomial Regression*, *Multinomial Logit Model*, *Travel Behavior*
 
 ---
 **[1.3 Predicting Household Car Ownership in DVRPC 9-County Region](contents/Portfolio-DVRPCCarOwnership.pdf){:target="_blank"}**   
 How socioeconomic conditions of a household are related to its car ownership
-<img src="images/Portfolio-RideHail.jpg?raw=true"/>   
+<img src="images/Portfolio-DVRPCCarOwnership.jpg?raw=true"/>   
 Key Words: *R*, *Binary Logit Model*, *Car Ownership*
 
 ---
