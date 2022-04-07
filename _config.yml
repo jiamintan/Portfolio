@@ -9,6 +9,11 @@ description: > # your text below (remove <br> elements if you don't need line br
   Anticipated graduation date: <br>
   December 2022 <br>
   <a href="https://www.linkedin.com/in/jiamin-tan-575b00175/">View My LinkedIn Profile</a>
+  <br><br>
+  What's in this portfolio?<br>
+  1. Transportation Modeling<br>
+  2. Data Analytics & Machine Learning in Urban/Transportation Fields<br>
+  3. Urban Planning & Design Work Samples
 
 theme: jekyll-theme-minimal
 google_analytics: UA-000000-0 # your Google Analytics tracking ID here
