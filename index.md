@@ -51,7 +51,7 @@ Key Words: *Python*, *Interactive Maps*, *Clustering Analysis*, *Regression*, *S
 **[2.4 Bus Ridership Prediction II: Time Series Models of Iowa City](contents/Portfolio-TimeSeries.pdf){:target="_blank"}**   
 Predict monthly average ridership based on past observations
 <img src="images/Portfolio-BusRidership_II.jpg?raw=true"/>   
-Key Words: *R*, *SARIMA*, *Time Series*
+Key Words: *R*, *Seasonal ARIMA*, *Time Series*
 
 ---
 **[2.5 Classification I: A Land Use Map Created from Aerial Imagery](contents/Portfolio-Classification_I.pdf){:target="_blank"}**   
