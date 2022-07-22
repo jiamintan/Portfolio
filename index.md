@@ -63,15 +63,13 @@ Key Words: *R*, *SVM*, *Image Segmentation*, *Remote Sensing*
 **[2.6 Classification II: Detect Road from Aerial Imagery](https://github.com/CPLN-680-Spring-2022/Tan_Jiamin_RoadDetection){:target="_blank"}**    
 Segment roads from surrounding features using convolutional neural networks (cnn)
 <img src="images/Portfolio-RoadDetection.png?raw=true"/>
-
 Key Words: *Python*, *TensorFlow*, *Deep Learning*, *Image Segmentation*, *Remote Sensing*
 
 ---
 **[2.7 An Interactive Map of COVID-19's Impact on Human Mobility Pattern in NYC](https://xiaoyi-wu0711.github.io/mobility_web/){:target="_blank"}**     
 Compare poverty rates and visiting counts of different industries in NYC.
 <img src="images/InteractiveMap.gif?raw=true"/>
-
-Key Words: *Interactive Maps*, *JavaScript*, *Spatial Analysis*
+Key Words: *JavaScript*, *Interactive Maps*, *Spatial Analysis*
 
 ---
 ## 3. Urban Planning and Design Sample Pages
