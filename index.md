@@ -60,7 +60,7 @@ Segment different land use patterns using support vector machine (svm)
 Key Words: *R*, *SVM*, *Image Segmentation*, *Remote Sensing*
 
 ---
-**[2.6 Classification II: Detect Road from Aerial Imagery](https://github.com/CPLN-680-Spring-2022/Tan_Jiamin_RoadDetection){:target="_blank"}**
+**[2.6 Classification II: Detect Road from Aerial Imagery](https://github.com/CPLN-680-Spring-2022/Tan_Jiamin_RoadDetection){:target="_blank"}** 
 Segment roads from surrounding features using convolutional neural networks (cnn)
 <img src="images/Portfolio-RoadDetection.png?raw=true"/>
 
