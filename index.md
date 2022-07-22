@@ -66,6 +66,11 @@ Segment roads from surrounding features using convolutional neural networks (cnn
 
 Key Words: *Python*, *TensorFlow*, *Deep Learning*, *Image Segmentation*, *Remote Sensing*
 
+**[2.7 An Interactive map of COVID-19's Impact on Human Mobility Pattern in NYC](https://xiaoyi-wu0711.github.io/mobility_web/){:target="_blank"}**
+Compare poverty rate and visiting counts of different industries in NYC.
+<img src="images/InteractiveMap.gif?raw=true"/>
+
+Key Words: *Interactive Maps*, *JavaScript*, *Spatial Analysis*
 ---
 ## 3. Urban Planning and Design Sample Pages
 
